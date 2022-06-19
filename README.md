@@ -1,7 +1,7 @@
 # VirTop
 Linux And termux 
 
-#Installasi
+# Installasi
 - apt install git
 
 - apt intsall figlet
